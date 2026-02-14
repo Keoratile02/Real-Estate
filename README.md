@@ -1,16 +1,22 @@
-# flutter_application_1
+# 🏠 Real Estate Flutter App
 
-A new Flutter project.
+A Flutter-based Real Estate Listing app that allows users to **add, edit, view, and delete property listings**. This project demonstrates Flutter forms, local storage, navigation, and state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**
 
-A few resources to get you started if this is your first Flutter project:
+- List all properties  
+- Add new property with form validation  
+- Edit existing property  
+- Delete properties  
+- View property details  
+- Local storage using `dart:io`  
+- Supports mobile and web  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Getting Started**
+
+
+
