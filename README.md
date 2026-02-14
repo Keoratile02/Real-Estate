@@ -18,5 +18,5 @@ A Flutter-based Real Estate Listing app that allows users to **add, edit, view, 
 
 ## **Getting Started**
 
-git clone https://github.com/Keoratile02/Real-Estate.git
+git clone [https://github.com/Keoratile02/Real-Estate.git](https://keoratile02.github.io/Real-Estate/)
 
